@@ -1,3 +1,5 @@
+#Seno, cosseno e tangente de um ângulo definido pelo usuário
+
 import math
 
 angulo = float (input("Digite o angulo em graus \n"))
