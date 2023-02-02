@@ -1,3 +1,5 @@
+#Calcular hipotenusa
+
 from math import hypot
 
 x = float(input("Insira o valor do cateto oposto: \n"))
