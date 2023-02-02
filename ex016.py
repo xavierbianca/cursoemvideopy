@@ -1,3 +1,5 @@
+#Porção inteira de um número real
+
 import math
 from math import trunc
 
