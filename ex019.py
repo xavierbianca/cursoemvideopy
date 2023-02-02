@@ -1,3 +1,5 @@
+#Escolher um aluno aleatório dentro de uma lista de 04 opções fornecidas pelo usuário
+
 from random import choice
 
 n1 = input("Digite o nome do primeiro aluno: \n")
